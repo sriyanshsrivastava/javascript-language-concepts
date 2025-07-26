@@ -20,6 +20,6 @@ console.log(username)
 
 
 // declaring constant variable
-const pi =3.14
+const pi = 3.14
 // this will not allow value of the pi to be changed.
 // pi=3.22; // this will give error
